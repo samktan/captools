@@ -1,8 +1,11 @@
-*This repository acts as a template for all of Oracle’s GitHub repositories. It contains information about the guidelines for those repositories. All files and sections contained in this template are mandatory, and a GitHub app ensures alignment with these guidelines. To get started with a new repository, replace the italic paragraphs with the respective text for your project.*
 
 # Project name
 
-*Describe your project's features, functionality and target audience*
+The "captools" repository is intended to share samples and example scripts that are used with the Cloud Appliance Platform products, namely the Private Cloud Appliance (PCA) and the Compute Cloud@Customer (C3). Both are engineered systems and both have an OCI-like interface as well as a REST API. The intention of this repo is to provide example Python and shell scripts that customers can use to build their own automation and workflows.
+
+Both the PCA and C3 products are strategic products in the Systems LOB and contribute over US$30M of revenue every year, the two largest regions being APAC and EMEA. Many of these customers have to integrate the PCA and C3 into their existing environments and having the ability to automate processes via scripts and bespoke tools is a big selling point.
+
+The goal of this repository is the gather as many of these tools as possible to be share with other customers and users, and to build and foster a community of users to support and assist each other.
 
 ## Installation
 
